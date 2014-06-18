@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Mon, 19 May 2014 01:44:13 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-Node: V2alpha
+Etag: :
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 1050
+
+{ "Root": { "Data": [ { "CurrentUser": [ { "User": [ {"IsFollowed": "0", "SnapUserId": "301613" }, {"IsFollowed": "0", "SnapUserId": "396405" } ] } ],  "Users": [ { "User": [ {"Email": "test328900@example.com", "IsCelebrity": "0", "LivingCityId": "0", "ORUserId": "328900", "PhotoCount": "0", "PhotoCountText": "", "RegisterCountryId": "1", "SnapUserId": "301613", "SSOUserId": "e08e82d6-ab01-4e2a-ac8e-a02e7231975e", "Username": "conconcon",  "UserPhoto": [ {"PhotoThumb": "http:\/\/preview.opensnap.com\/images\/NoAvatar_member_s.png" } ] }, {"Email": "test255629@example.com", "IsCelebrity": "0", "LivingCityId": "0", "ORUserId": "255629", "PhotoCount": "0", "PhotoCountText": "", "RegisterCountryId": "1", "SnapUserId": "396405", "SSOUserId": "266871e2-728a-4df6-bb5e-db6156902339", "Username": "pangjvan",  "UserPhoto": [ {"PhotoThumb": "http:\/\/preview.opensnap.com\/images\/NoAvatar_member_s.png" } ] } ] } ] } ],  "System": [ {"Check": "snap.user.findinaddressbook", "Status": "200", "UnReadSnapUserActivityCount": "4", "Version": "1" } ] }}
